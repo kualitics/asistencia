@@ -1,0 +1,16 @@
+PODS:
+  - kbeaconlib2 (1.2.0)
+
+DEPENDENCIES:
+  - kbeaconlib2 (= 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - kbeaconlib2
+
+SPEC CHECKSUMS:
+  kbeaconlib2: 3fb57450e68546c3c87c49c079b09e8a9695be33
+
+PODFILE CHECKSUM: 7d5f054932cc5fb73e4fd74e1333feeff7e4caac
+
+COCOAPODS: 1.16.2
